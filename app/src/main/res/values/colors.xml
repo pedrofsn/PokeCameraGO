@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="predominante">#003cac</color>
-    <color name="predominante_clicada">#2762cf</color>
-    <color name="rodape">#ffed00</color>
-    <color name="rosa">#ff8080</color>
-    <color name="verde_do_k_do_kajuru">#c4fb00</color>
-    
+
 </resources>
